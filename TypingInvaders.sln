@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypingInvaders", "TypingInvaders.csproj", "{09426B22-E36D-4748-A5EB-F1016EFC9AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09426B22-E36D-4748-A5EB-F1016EFC9AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09426B22-E36D-4748-A5EB-F1016EFC9AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09426B22-E36D-4748-A5EB-F1016EFC9AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09426B22-E36D-4748-A5EB-F1016EFC9AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02EF3E2-4363-4818-A731-F906E95EC8C3}
+	EndGlobalSection
+EndGlobal
