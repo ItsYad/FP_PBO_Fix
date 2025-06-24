@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\TypingInvaders\bin\Debug\net6.0-windows\TypingInvaders.exe
+C:\Users\user\Desktop\C#\TypingInvaders\bin\Debug\net6.0-windows\TypingInvaders.deps.json
+C:\Users\user\Desktop\C#\TypingInvaders\bin\Debug\net6.0-windows\TypingInvaders.runtimeconfig.json
+C:\Users\user\Desktop\C#\TypingInvaders\bin\Debug\net6.0-windows\TypingInvaders.dll
+C:\Users\user\Desktop\C#\TypingInvaders\bin\Debug\net6.0-windows\TypingInvaders.pdb
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\TypingInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\TypingInvaders.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\TypingInvaders.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\TypingInvaders.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\TypingInvaders.dll
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\refint\TypingInvaders.dll
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\TypingInvaders.pdb
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\TypingInvaders.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\TypingInvaders\obj\Debug\net6.0-windows\ref\TypingInvaders.dll

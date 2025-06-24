@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|c:\\users\\user\\desktop\\c#\\typinginvaders\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|c:\\users\\user\\desktop\\c#\\typinginvaders\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|solutionrelative:leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|c:\\users\\user\\desktop\\c#\\typinginvaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|c:\\users\\user\\desktop\\c#\\typinginvaders\\normalalien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|solutionrelative:normalalien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|c:\\users\\user\\desktop\\c#\\typinginvaders\\bossalien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|solutionrelative:bossalien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|c:\\users\\user\\desktop\\c#\\typinginvaders\\alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|solutionrelative:alien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09426B22-E36D-4748-A5EB-F1016EFC9AAE}|TypingInvaders.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leaderboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "Leaderboard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\Leaderboard.cs",
+              "RelativeToolTip": "Leaderboard.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:47:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAQwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:34:24.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossAlien.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\BossAlien.cs",
+              "RelativeDocumentMoniker": "BossAlien.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\BossAlien.cs",
+              "RelativeToolTip": "BossAlien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:33:03.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NormalAlien.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\NormalAlien.cs",
+              "RelativeDocumentMoniker": "NormalAlien.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\NormalAlien.cs",
+              "RelativeToolTip": "NormalAlien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:32:33.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:31:51.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alien.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\Alien.cs",
+              "RelativeDocumentMoniker": "Alien.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\Alien.cs",
+              "RelativeToolTip": "Alien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T05:32:15.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\TypingInvaders\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:15:30.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
