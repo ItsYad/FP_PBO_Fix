@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
@@ -15,15 +15,14 @@ namespace TypingInvaders
         private int score = 0;
         private Label lblScore;
         private string[] wordBank = {
-    "alien", "laser", "serangan", "invasi", "kapal",
-    "sinyal", "kode", "markas", "planet", "senjata",
-    "pelindung", "radar", "roket", "penculik", "mutan",
-    "jejak", "ledakan", "rahasia", "makhluk", "zona",
-    "alarm", "bayangan", "patroli", "anjlok", "terbang",
-    "sensor", "kapsul", "penyusup", "gawat", "jebakan",
-    "pemetaan", "panggilan", "benteng", "lubang", "gravitasi",
-    "reaktor", "gelombang", "orbit", "pantauan", "labirin"
+    "object", "class", "method", "attribute", "encapsulation",
+    "inheritance", "polymorphism", "abstraction", "constructor",
+    "instance", "interface", "override", "static",
+    "virtual", "private", "public", "protected", "component", "relationship", "responsibility",
+    "implementation", "composition","superclass", "subclass", "initialization", "reference", "binding",
+    "message", "runtime", "type"
 };
+
 
 
         public MainForm()
