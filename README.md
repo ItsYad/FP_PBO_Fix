@@ -8,7 +8,7 @@
 
 ## 🎮 Fitur Game
 
-- Alien muncul dari atas layar dan membawa **kata acak** bertema PBO.
+- Alien muncul dari atas layar dan membawa **kata acak**.
 - Pemain harus **mengetik kata tersebut** dan menekan **Enter** untuk menghancurkannya.
 - Terdapat **alien biasa** dan **boss alien**:
   - Boss alien bergerak lebih lambat dan memberikan poin lebih besar.
@@ -29,12 +29,11 @@ Game ini dirancang untuk:
 
 - **C# (.NET Framework)**
 - **Windows Forms App**
-- GDI+ untuk rendering teks (alien) secara dinamis
 - Konsep **OOP** digunakan secara penuh:
   - `Alien` sebagai *abstract class*
   - `NormalAlien` dan `BossAlien` mewarisi dan meng-*override* metode
-  - Polimorfisme untuk perilaku visual yang berbeda
-  - Enkapsulasi atribut alien
+  - Polimorphysm untuk perilaku visual yang berbeda
+  - Encapsulation atribut alien
   - Instance & inheritance digunakan secara eksplisit
 
 ---
